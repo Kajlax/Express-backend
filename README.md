@@ -1,4 +1,5 @@
 ## Express backend
 
-- Fetching data from Express.js backend
-- Displaying fetch response in Card-layout
+- Simple Express.js backend
+- Fetching data from an external JSON-file
+- Displaying the fetch response in a Card-layout
