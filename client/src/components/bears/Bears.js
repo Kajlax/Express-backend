@@ -24,6 +24,7 @@ class Bears extends Component {
           meta={bear.nameLatin}
           description={bear.description}
           extra={bear.kingdom}
+          onClick={() => console.log(bear.id, bear.name)}
         />
       </Grid.Column>
     ));
